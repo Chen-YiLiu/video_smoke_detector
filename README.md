@@ -14,12 +14,8 @@ The original videos' audio tracks will be stripped from the output videos.
 
 ### Examples:
 
-![Sample result 1](https://github.com/chenyi731231/Video-Smoke-Detector/blob/master/sample1.png)
+![Sample result 1](/sample1.png)
 
-![Sample result 2](https://github.com/chenyi731231/Video-Smoke-Detector/blob/master/sample2.png)
+![Sample result 2](/sample2.png)
 
-Examples of analyzed videos can be viewed on YouTube.
 
-<a href="https://www.youtube.com/watch?v=LekBzCjBpww
-" target="_blank"><img src="http://img.youtube.com/vi/LekBzCjBpww/0.jpg" 
-alt="Video Smoke Detection" width="480" height="360" border="10" /></a>
