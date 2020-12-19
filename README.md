@@ -14,6 +14,8 @@ The original videos' audio tracks will be stripped from the output videos.
 
 ### Examples:
 
+[![video](https://img.youtube.com/vi/LekBzCjBpww&t=8s/0.jpg)](https://www.youtube.com/watch?v=LekBzCjBpww&t=8s "video")
+
 ![Sample result 1](/sample1.png)
 
 ![Sample result 2](/sample2.png)
